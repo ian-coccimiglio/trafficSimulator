@@ -43,7 +43,7 @@
 
 **trafficSimulator** is suitable for students, researchers and practitioners who are interested in studying traffic phenomena and finding solutions for traffic problems.
 
-To learn more about how the project was created check out this [article](https://towardsdatascience.com/simulating-traffic-flow-in-python-ee1eab4dd20f) on Medium.
+To learn more about how the project was created check out this [article](https://medium.com/data-science/simulating-traffic-flow-in-python-ee1eab4dd20f) on Medium.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
